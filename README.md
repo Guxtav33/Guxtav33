@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (UNICID, formatura prevista para dez/2026), em busca de **estágio em TI**.
+Estudante de **Análise e Desenvolvimento de Sistemas** (UNICID, formatura prevista para dez/2026)
 
 Comecei na tecnologia fazendo manutenção e formatação de computadores. Hoje construo projetos de ponta a ponta com Flutter, Python e dados.
 
